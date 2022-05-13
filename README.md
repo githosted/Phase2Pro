@@ -2,8 +2,10 @@
 
 Another module down--you're almost half way there!
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-2-project-campus/master/halfway-there.gif)
+![apartmentliving](https://raw.githubusercontent.com/githosted/dsc-phase-2-project-campus/master/apartmentliving.jpg)
 
+
+This research and data model dives deeper 
 All that remains in Phase 2 is to put our newfound data science skills to use with a large project! This project should take 20 to 30 hours to complete.
 
 ## Project Overview
@@ -53,9 +55,9 @@ Review the "Project Submission & Review" page in the "Milestones Instructions" t
 
 ## Getting Started
 
-Start on this project by forking and cloning [this project repository](https://github.com/learn-co-curriculum/dsc-phase-2-project) to get a local copy of the dataset.
+Start on this project by forking and cloning [this project repository](https://github.com/githosted/dsc-phase-2-project) to get a local copy of the dataset.
 
-We recommend structuring your project repository similar to the structure in [the Phase 1 Project Template](https://github.com/learn-co-curriculum/dsc-project-template). You can do this either by creating a new fork of that repository to work in or by building a new repository from scratch that mimics that structure.
+We recommend structuring your project repository similar to the structure in [the Phase 1 Project Template](https://github.com/githosted/dsc-project-template). You can do this either by creating a new fork of that repository to work in or by building a new repository from scratch that mimics that structure.
 
 ## Project Submission and Review
 
@@ -64,3 +66,10 @@ Review the "Project Submission & Review" page in the "Milestones Instructions" t
 ## Summary
 
 This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
+
+## For More Information 
+
+Please review our full analysis in the Jupyter Notebook[Jupyter Notebook] (./PhasePro2.ipynb) or our [presentation](./presentation.pdf).
+
+For more information contact **Carla Kirby, ra_carlajoy@yahoo.com** 
+  
