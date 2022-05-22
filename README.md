@@ -2,7 +2,7 @@
 
 Another module down--you're almost half way there!
 
-![apartmentliving](https://raw.githubusercontent.com/githosted/dsc-phase-2-project-campus/master/apartmentliving.jpg)
+![apartmentliving] (.images/apartmentliving.jpg)
 
 
 This research and data model dives deeper 
