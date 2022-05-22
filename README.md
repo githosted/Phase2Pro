@@ -2,7 +2,7 @@
 
 Another module down--you're almost half way there!
 
-![apartmentliving] (.images/apartmentliving.jpg)
+![apartmentliving] (./images/apartmentliving.jpg)
 
 
 This research and data model dives deeper 
