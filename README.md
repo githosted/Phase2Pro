@@ -1,22 +1,52 @@
 # Phase 2 Project
 
-Another module down--you're almost half way there!
 
-![apartmentliving](https://raw.githubusercontent.com/githosted/dsc-phase-2-project-campus/master/apartmentliving.jpg)
+![apartmentliving] (./images/apartmentliving.jpg)
 
+**Phase 2 Project Housing Regression Analysis**
 
-This research and data model dives deeper 
-All that remains in Phase 2 is to put our newfound data science skills to use with a large project! This project should take 20 to 30 hours to complete.
+**Author: [Carla Kirby](mailto:ra_carlajoy@yahoo.com)**
+
+There are three deliverables for this project:
+## Deliverables Attached 
+* A **GitHub repository** - URL 
+* A **Jupyter Notebook** - saved as a pdf,uploaded github repo
+* A **non-technical presentation** - Phase2Pro.pptx with AUDIO
+
 
 ## Project Overview
 
-For this project, you will use regression modeling to analyze house sales in a northwestern county.
+For this project, I am using linear regression modeling to analyze house sales in a northwestern county against pricing and researching into sqft_living and sqft_lot to determine which variable has a stronger connection to house sales in the county.
 
-### The Data
 
-This project uses the King County House Sales dataset, which can be found in  `kc_house_data.csv` in the data folder in this repo. The description of the column names can be found in `column_names.md` in the same folder. As with most real world data sets, the column names are not perfectly described, so you'll have to do some research or use your best judgment if you have questions about what the data means.
+### Business Problem
 
-It is up to you to decide what data from this dataset to use and how to use it. If you are feeling overwhelmed or behind, we recommend you ignore some or all of the following features:
+King County Realty is a newly established local businessin Northwestern Washington.
+They are seeking some information regarding what attracts local buyers in this area to purchase new homes.
+We wiill inspect the data set to determine what relationships and connections buyers have to purchasing a home and help King County Realty market their new business to suit.
+
+
+### Key Points
+
+* **The OSEMIN Method was used to establish this project** Refer to [the Data Science Process lesson](https://github.com/learn-co-curriculum/dsc-data-science-processes)
+
+* **Your Jupyter Notebook should demonstrate an iterative approach to modeling.** This means that you begin with a basic model, evaluate it, and then provide justification for and proceed to a new model. After you finish refining your models, you should provide 1-3 paragraphs discussing your final model - this should include interpreting at least 3 important parameter estimates or statistics.
+
+* **Based on the results of your models, your notebook and presentation should discuss at least TWO features that have strong relationships with housing prices.**
+
+## Getting Started
+
+This project has been forked and cloned via [this project repository](https://github.com/githosted/dsc-phase-2-project) to obtain a local copy of the dataset.
+
+This repo is structured as a project repository similar to the structure in [the Phase 1 Project Template](https://github.com/githosted/dsc-project-template). You can do this either by creating a new fork of that repository to work in or by building a new repository from scratch that mimics that structure.
+
+## The Data Process Utilised : OSEMN model (Obtain, Scrub, Explore, Model, Interpret)
+
+**OBTAIN** 
+
+This project contains the King County House Sales dataset, which is found in  `kc_house_data.csv` of the data folder in this repo. The description of the column names can be found in `column_names.md` in the same folder. As with most real world data sets, the column names are not perfectly described, so we have determined and described the data columns below.
+
+Features Ommited: 
 
 * date
 * view
@@ -29,39 +59,62 @@ It is up to you to decide what data from this dataset to use and how to use it. 
 * sqft_living15
 * sqft_lot15
 
-### Business Problem
+Data included: 
 
-It is up to you to define a stakeholder and business problem appropriate to this dataset.
+* price       Purchase price 
+* bedrooms    How many beddrooms    
+* bathrooms   How many bathrooms    
+* sqft_living How many square feet is the living area 
+* sqft_lot    How many square feet is the lot     
+* floors      How many floors     
+* condition   Condition (poor, good, excellent)   
+* grade       Indicating Grade / level   
+* yr_built    Year house was built  
+* zipcode     The zip code in the area   
 
-If you are struggling to define a stakeholder, we recommend you complete a project for a real estate agency that helps homeowners buy and/or sell homes. A business problem you could focus on for this stakeholder is the need to provide advice to homeowners about how home renovations might increase the estimated value of their homes, and by what amount.
 
-## Deliverables
+To avoid multicollinearity, we have limited the frequency of duplicated sqft_variables present in this dataset.
 
-There are three deliverables for this project:
 
-* A **GitHub repository**
-* A **Jupyter Notebook**
-* A **non-technical presentation**
+**Scrub**
 
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic for instructions on creating and submitting your deliverables. Refer to the rubric associated with this assignment for specifications describing high-quality deliverables.
+To cleanse the data we have performed the following data cleansing activities: 
 
-### Key Points
+* Created test data dummy set
+*
+*
+*
+*
 
-* **Your deliverables should explicitly address each step of the data science process.** Refer to [the Data Science Process lesson](https://github.com/learn-co-curriculum/dsc-data-science-processes) from Topic 19 for more information about process models you can use.
 
-* **Your Jupyter Notebook should demonstrate an iterative approach to modeling.** This means that you begin with a basic model, evaluate it, and then provide justification for and proceed to a new model. After you finish refining your models, you should provide 1-3 paragraphs discussing your final model - this should include interpreting at least 3 important parameter estimates or statistics.
+**Explore**
 
-* **Based on the results of your models, your notebook and presentation should discuss at least two features that have strong relationships with housing prices.**
+To perform further analysis and gain a clearer understanding of the dataset we have perfgormed the following: 4
 
-## Getting Started
+*
+*
+*
+*
+*
 
-Start on this project by forking and cloning [this project repository](https://github.com/githosted/dsc-phase-2-project) to get a local copy of the dataset.
 
-We recommend structuring your project repository similar to the structure in [the Phase 1 Project Template](https://github.com/githosted/dsc-project-template). You can do this either by creating a new fork of that repository to work in or by building a new repository from scratch that mimics that structure.
+**Model**
 
-## Project Submission and Review
+In order to depict for interpretatrion our data model contains: 
 
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
+*
+*
+*
+*
+*
+*
+
+
+
+**Interpret**
+
+In summary, I have determined that the R2 values and the predictions... 
+Furthermore, the sqft_lot verses the sqft_living have the closest relationship to the price sales in the King County area. 
 
 ## Summary
 
