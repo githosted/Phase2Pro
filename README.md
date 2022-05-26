@@ -74,39 +74,43 @@ Data included:
 
 
 To avoid multicollinearity, we have limited the frequency of duplicated sqft_variables present in this dataset.
-
+Imported assdociated packages to notebook
 
 **Scrub**
 
-To cleanse the data we have performed the following data cleansing activities: 
+Data cleansing activities conducted: 
 
 * Created test data dummy set
-*
-*
-*
+* Removed duplicates, null values, dropped unnecessary columns as they were doubled up information or not relevant to the business problem
+* Viewed the shape, Created a copy of data, change type, obtained statistical information for syntax
+* Displayed Unique Values 
 *
 
 
 **Explore**
 
-To perform further analysis and gain a clearer understanding of the dataset we have perfgormed the following: 4
+To perform further analysis and gain a clearer understanding of the dataset we have performed the following: 4
 
-*
-*
-*
-*
-*
+* Plotted Kernal Density 
+* Created a scatter plot for Linearity
+* Mean Squared Error 
+* OLS 
+* z - Test 
+* P value & statistical Significance - Alpha Value of <.05
+* Confidence Intervals
+* Degree of Freedom 
+
 
 
 **Model**
 
 In order to depict for interpretatrion our data model contains: 
 
-*
-*
-*
-*
-*
+* Created a Dummy Test Set 
+* Y hat Test
+* K Folds 
+* Visualised z Statistics 
+* Train test split 
 *
 
 
