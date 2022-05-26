@@ -2,8 +2,7 @@
 
 
 
-
-![housepg2] (/images/housepg2.png)
+![insideimg.jpg](attachment:insideimg.jpg)
 
 
 **Phase 2 Project Housing Regression Analysis**
