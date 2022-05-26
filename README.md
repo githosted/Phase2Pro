@@ -2,7 +2,8 @@
 
 
 
-![apartmentliving] (./images/apartmentliving.jpg)
+
+![housepg2](./images/housepg2.png)
 
 **Phase 2 Project Housing Regression Analysis**
 **Author: [Carla Kirby](mailto:ra_carlajoy@yahoo.com)**
