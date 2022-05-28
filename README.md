@@ -1,7 +1,7 @@
 # Phase 2 Project
 
 
-![insideimg.jpg](./insideimg.jpg)
+![insideimg.jpg](./images/insideimg.jpg)
 
 
 ## Project Overview
