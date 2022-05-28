@@ -1,7 +1,7 @@
 # Phase 2 Project
 
 
-![insideimg.jpg](.//image/insideimg.jpg)
+![insideimg.jpg](./insideimg.jpg)
 
 
 ## Project Overview
@@ -74,16 +74,13 @@ INTERPRET -
 
 
 
-
-
-
 ## Summary
 
 This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
 
 ## For More Information 
 
-Please review our full analysis in the Jupyter Notebook[Jupyter Notebook] (./PhasePro2.ipynb) or our [presentation](./presentation.pdf).
+Please review our full analysis in the Jupyter Notebook[Jupyter Notebook] (../PhasePro2_10.ipynb) or our [presentation](./presentation.pdf).
 
 For more information contact **Carla Kirby, ra_carlajoy@yahoo.com** 
   
