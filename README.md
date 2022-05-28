@@ -1,7 +1,12 @@
 # Phase 2 Project
 
 
-![insideimg.jpg](./images/insideimg.jpg)
+![insideimg.jpg](./images/insideimg.jpg)https://th.bing.com/th/id/OIP.zK-nEZwxNi3VIJFRFSAWRAHaEw?w=276&h=180&c=7&r=0&o=5&pid=1.7
+
+<p align="center">
+  <img src="[your_relative_path_here](https://th.bing.com/th/id/OIP.zK-nEZwxNi3VIJFRFSAWRAHaEw?w=276&h=180&c=7&r=0&o=5&pid=1.7)" width="350" title="hover text">
+  <img src="[your_relative_path_here_number_2_large_name](https://th.bing.com/th/id/OIP.zK-nEZwxNi3VIJFRFSAWRAHaEw?w=276&h=180&c=7&r=0&o=5&pid=1.7)" width="350" alt="accessibility text">
+</p>
 
 
 ## Project Overview
