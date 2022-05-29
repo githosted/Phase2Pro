@@ -1,5 +1,6 @@
 # Phase 2 Project
-![image](https://user-images.githubusercontent.com/51284956/170860501-60ee0789-e902-4c8e-940a-b67b14466a04.png)
+
+https://www.bing.com/th?id=OIP.rlc61SSJb4aFIJI-ecCwbQHaE8&w=306&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2
 
 ## Project Overview
 
