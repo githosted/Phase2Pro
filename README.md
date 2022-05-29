@@ -1,6 +1,6 @@
 # Phase 2 Project
 
-https://www.bing.com/th?id=OIP.rlc61SSJb4aFIJI-ecCwbQHaE8&w=306&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2
+![insideimg.png](./images/insideimg.png)
 
 ## Project Overview
 
@@ -34,16 +34,18 @@ The following methods were utilised to clean or "scrub" the data: Removed duplic
 
 **MODEL - Scatter Plots, histograms, linear regression best line of fit using Pandas, Numpy and Matplotlib, mapped residuals to confirm alternate hypothesis. 
 
-**INTERPRET - R squared values were between 0 and 1 for both the sqft_lot and the sqft_living – indicating strong correlation to increased sale prices. 
-Null hypothesis was validated, confirmed that sqft_living has a strong connection to the prices. Elevated size of sqft-Living meant higher cost of the home
-Sqft_living presented with the best line of fit when compared to grade and sqft_lot.
-![image](https://user-images.githubusercontent.com/51284956/170860501-60ee0789-e902-4c8e-940a-b67b14466a04.png)
+**INTERPRET - 
+(2) Two features that have strong relationships with housing prices - 
 
+1. Sqft_living had the strongest linearity compared to sqft_lot which would be a resaonably strong connection to house sales in teh area. For example, the larger the lot the higher the price - however this was incorrect, the larger the sqft_living area was directly correlated with the inccreased house sales price. 
+
+2. Final predicted date based on the dataset determined that the sqft_living, bathrooms and sqft_living, grade both leveled at .076 with strong connections to sale price - however bathrooms were not reviewed in this analysis as grade held a stronger inital correlation value of 67%.
 
 
 #3 important parameter estimates or statistics.
+1. There were 571 outliers in sqft_living.
+2. 
 
- #your notebook and presentation should discuss at least two features that have strong relationships with housing prices.
  
 #after you finish refining your models, you should provide 1-3 paragraphs discussing your final model
 
