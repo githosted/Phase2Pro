@@ -1,7 +1,8 @@
 
 # Phase 2 Project
 
-![interiorhouse.png](./img/interiorhouse.png)
+![insideimg.jpg](./img/insideimg.jpg)
+
 
 ## Project Overview
 ___________________________________________________________________________________________________________________________________________
