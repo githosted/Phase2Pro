@@ -1,0 +1,40 @@
+https://github.com/githosted/CapstonePhase3.git
+
+CapstonePhase3
+
+git pull origin master 
+
+git pull origin main 
+
+
+dont drop so many - 
+
+create OLS 
+
+
+KDE - previous one had all three 
+
+add amodel  with log transformation 
+transform 3 variables  
+scale variables 
+model fit with validation 
+
+
+
+'- 
+
+transform 3 variables 
+run  model with log transform 
+run r square value 
+
+
+split training and testing  to look at mse 
+
+then final evaluation 
+
+not under  or over 
+
+split training and testing deataset 
+
+
+

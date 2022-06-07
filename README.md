@@ -16,6 +16,7 @@ King County Realty is a newly established local business in North-western Americ
 
 A linear regression model will be used to understand the connections to the business problem using the OSMIN Model for our Data Science Process.
 
+
 ## The Data
 
 **OBTAIN** 
